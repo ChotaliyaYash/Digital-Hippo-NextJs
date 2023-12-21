@@ -26,4 +26,4 @@ To get started with this project, run
   git clone https://github.com/ChotaliyaYash/Digital-Hippo-NextJs.git
 ```
 
-Credit to Youtube Channel
+Credit to Youtube Channel: [Joshtried Coding](https://www.youtube.com/@joshtriedcoding) for this amazing project.
